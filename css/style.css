@@ -1,6 +1,8 @@
 
 .directors{
-  background: url(https://waltonhil.com/image/catalog/bod/background.png) no-repeat;
+  background: url(../images/background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
   padding: 80px 0;
